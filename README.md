@@ -1,17 +1,34 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Bngel/NoteOfDesignPattern">
-    <img src="rem_icon.png" alt="Logo">
-  </a>
+![](rem_icon.png)
 
-  <h2 align="center">设计模式学习笔记</h3>
+### 设计模式学习笔记
 
-  <br>
-    从零开始系统学习设计模式
-  <br>
-  <div>
-    <p style="color: aqua;">■ 已完成 1</p>
-    <p style="color: whitesmoke;">■ 未完成 22</p>
-  </div>
-</div>
+#### 从零开始系统学习设计模式
+
+**已完成：1**
+
+- 单例模式
+
+**未完成：22**
+
+- 工厂方法模式
+- 抽象工厂模式
+- 模板方法模式
+- 建造者模式
+- 代理模式
+- 原型模式
+- 中介者模式
+- 命令模式
+- 责任链模式
+- 装饰模式
+- 策略模式
+- 适配器模式
+- 迭代器模式
+- 组合模式
+- 观察者模式
+- 门面模式
+- 备忘录模式
+- 访问者模式
+- 状态模式
+- 解释器模式
+- 享元模式
+- 桥梁模式
